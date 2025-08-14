@@ -3,3 +3,24 @@ It showcases attractive property listings, detailed descriptions, and engaging v
 
 
 
+Registration Page 
+
+![Alt Text](https://github.com/AmareshMaurya/WonderLust-Airbnb-/tree/main/ScreenShot)
+
+
+
+
+Login Page 
+
+![Alt Text](https://github.com/AmareshMaurya/WonderLust-Airbnb-/blob/1c1ea262663bf6b052944ad815fb82e4d78fd44d/ScreenShot/Login%20Page.png)
+
+
+Home Page 
+
+![Alt Text](https://github.com/AmareshMaurya/WonderLust-Airbnb-/blob/1c1ea262663bf6b052944ad815fb82e4d78fd44d/ScreenShot/Home%20Page.png)
+
+
+See Details
+
+
+![Alt Text](https://github.com/AmareshMaurya/WonderLust-Airbnb-/blob/1c1ea262663bf6b052944ad815fb82e4d78fd44d/ScreenShot/See%20Details.png)
