@@ -5,7 +5,7 @@ It showcases attractive property listings, detailed descriptions, and engaging v
 
 Registration Page 
 
-![Alt Text](https://github.com/AmareshMaurya/WonderLust-Airbnb-/tree/main/ScreenShot)
+![Alt Text](https://github.com/AmareshMaurya/WonderLust-Airbnb-/blob/8067b5d101ee05478046cb80c60f65b64395216d/ScreenShot/Register%20Page.png)
 
 
 
