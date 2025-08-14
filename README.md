@@ -1,3 +1,5 @@
-Developed a full-stack web app inspired by Airbnb for browsing property listings.
-Features include user authentication,image uploads via cloudinary, and form validation with Joi.
-Followed the MVC pattern for a well-organized code structure.
+WonderLust is a frontend-only web application inspired by Airbnb, designed to help users explore beautiful stays and travel destinations.
+It showcases attractive property listings, detailed descriptions, and engaging visuals to give users a premium browsing experience.
+
+
+
